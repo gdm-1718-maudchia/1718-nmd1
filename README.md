@@ -2,4 +2,3 @@
 ## Maud Chiau
 
 Mijn project met oefeningen voor het OLOD New Media Design 1
-Test 123
