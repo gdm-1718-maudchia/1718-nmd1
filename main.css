@@ -1,4 +1,40 @@
-body{background-color:rgb(209, 203, 189) ;
+
 
 h1 {font-family: Arial, Helvetica, sans-serif}
+
 p {font-family:Arial, Helvetica, sans-serif }
+
+body    {background-image: url("./foto/maud.jpg");
+        background-size:cover; 
+        color: whitesmoke}
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+ul li { float: left;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    opacity:.4;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 2px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    display; block;
+}
+ul li a:hover {
+    background-color: green;
+}
+ul li ul li {
+    display: none;
+}
+ul li:hover ul li {
+    display: block;
+}
