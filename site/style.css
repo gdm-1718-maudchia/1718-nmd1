@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Rozha+One');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+
+    
+}
+
+.nav {
+    background-color: #ffffff;
+    color: #000000;
+    list-style: none;
+    text-align:right;
+    padding: 20px 0 0 0;
+    font-family:;
+}
+
+.nav > li {
+    display: inline-block;
+    padding: 0 25px 0 25px;
+    font-size: 12px;
+}
+
+.nav > li > a {
+    text-decoration: none;
+    color: #c1c1c1;
+}
+
+.logo {
+    color:#000000;
+    float: left;
+    padding-left:16px;
+    font-weight: bold;
+}
+
+.logo > a {
+    text-decoration: none;
+    color: #000000;
+}
+.banner {
+    width: 100%;
+    display: block;
+
+}
+.banner > .banner-image {
+    width: 100%;
+    display: block;
+}
+
+.bar {background-color: rgb(255, 255, 255)}
+
+.tekst {
+    padding-left: 15px;
+}
+
+.affiche {
+    
+    width: 20%;
+    margin: 2%;
+    
+}
+.portfolio {
+    float: left;
+    width: 26%;
+    margin: 2%;
+}
+.pulp {
+    float: left;
+    width: 19%;
+    margin: 2%;
+}
+.auto {
+    float: left;
+    width: 19%;
+    margin:2%;
+    
+}
+.bar { background-color: none;}
